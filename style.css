@@ -4,7 +4,7 @@
 }
 
 #header a{
-    float: left;
+    float: right;
     color: aqua;
     text-align: center;
     padding: 14px 16px;
@@ -19,6 +19,6 @@ li{
     color: antiquewhite;
 }
 #header a.active{
-    background-color: blueviolet;
+    background-color: rgb(16, 208, 185);
     color: antiquewhite;
 }
